@@ -1,0 +1,69 @@
+{
+    "tipo": "ListaDoble",
+    "semestres": [
+        {
+            "año": 2023,
+            "term": 2,
+            "materias": [
+                {
+                    "cod": "MAT101",
+                    "nombre": "Cálculo I",
+                    "nota": 7.2
+                },
+                {
+                    "cod": "PRO101",
+                    "nombre": "Programación I",
+                    "nota": 8.0
+                }
+            ]
+        },
+        {
+            "año": 2024,
+            "term": 1,
+            "materias": [
+                {
+                    "cod": "MAT201",
+                    "nombre": "Matemática Discreta",
+                    "nota": 7.8
+                },
+                {
+                    "cod": "PRO201",
+                    "nombre": "Programación II",
+                    "nota": 8.6
+                }
+            ]
+        },
+        {
+            "año": 2024,
+            "term": 2,
+            "materias": [
+                {
+                    "cod": "SO201",
+                    "nombre": "Sistemas Operativos",
+                    "nota": 8.9
+                },
+                {
+                    "cod": "CRI201",
+                    "nombre": "Criptografía",
+                    "nota": 9.4
+                }
+            ]
+        },
+        {
+            "año": 2025,
+            "term": 1,
+            "materias": [
+                {
+                    "cod": "EST201",
+                    "nombre": "Estructuras de Datos",
+                    "nota": 9.1
+                },
+                {
+                    "cod": "RED201",
+                    "nombre": "Redes I",
+                    "nota": 8.7
+                }
+            ]
+        }
+    ]
+}

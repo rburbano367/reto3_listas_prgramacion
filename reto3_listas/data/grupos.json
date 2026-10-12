@@ -1,0 +1,15 @@
+{
+    "tipo": "ListaCircular",
+    "grupos": [
+        {
+            "nombre_grupo": "G2",
+            "tutor": "Ing. Salazar",
+            "tema": "Análisis con Wireshark"
+        },
+        {
+            "nombre_grupo": "G3",
+            "tutor": "Ing. Cevallos",
+            "tema": "Hardening de Linux"
+        }
+    ]
+}
